@@ -1,0 +1,120 @@
+mikado.Super_Scaffold_1000070G59.1	hypothetical protein B296_00008717 [Ensete ventricosum]	1.53e-11
+mikado.Super_Scaffold_1000081G5.1	heavy metal-associated isoprenylated plant protein 39-like [Phoenix dactylifera]	1.59e-51
+mikado.Super_Scaffold_1000081G6.1	heavy metal-associated isoprenylated plant protein 39-like [Phoenix dactylifera]	1.59e-51
+mikado.Super_Scaffold_14233G1082.1	pentatricopeptide repeat-containing protein At4g18840 [Elaeis guineensis]	0
+mikado.Super_Scaffold_14233G1312.2	NPC intracellular cholesterol transporter 1 [Elaeis guineensis]	0
+mikado.Super_Scaffold_14233G1361.1	uncharacterized protein LOC114912789 [Elaeis guineensis]	1.52e-42
+mikado.Super_Scaffold_14233G173.4	probable folate-biopterin transporter 7 isoform X1 [Elaeis guineensis]	0
+mikado.Super_Scaffold_14233G2030.1	uncharacterized protein LOC103700436, partial [Phoenix dactylifera]	7.46e-46
+mikado.Super_Scaffold_14233G372.2	uncharacterized protein LOC109708209 isoform X2 [Ananas comosus]	1.42e-26
+mikado.Super_Scaffold_14233G372.3	uncharacterized protein LOC109708209 isoform X2 [Ananas comosus]	3.06e-30
+mikado.Super_Scaffold_14233G372.4	uncharacterized protein LOC109708209 isoform X2 [Ananas comosus]	3.06e-30
+mikado.Super_Scaffold_14233G372.5	uncharacterized protein LOC109708209 isoform X2 [Ananas comosus]	3.06e-30
+mikado.Super_Scaffold_14233G372.6	uncharacterized protein LOC109708209 isoform X2 [Ananas comosus]	3.06e-30
+mikado.Super_Scaffold_14233G372.7	uncharacterized protein LOC109708209 isoform X2 [Ananas comosus]	3.06e-30
+mikado.Super_Scaffold_14233G372.8	unnamed protein product [Digitaria exilis]	1.07e-07
+mikado.Super_Scaffold_37118G42.1	hypothetical protein MA16_Dca020008 [Dendrobium catenatum]	1.03e-23
+mikado.Super_Scaffold_502G19.4	PREDICTED: protein FAR1-RELATED SEQUENCE 5-like [Musa acuminata subsp. malaccensis]	0
+mikado.Super_Scaffold_502G266.1	H/ACA ribonucleoprotein complex subunit 4, partial [Elaeis guineensis]	0
+mikado.Super_Scaffold_502G266.2	H/ACA ribonucleoprotein complex subunit 4, partial [Elaeis guineensis]	0
+mikado.Super_Scaffold_502G329.1	Retrovirus-related Pol polyprotein from transposon TNT 1-94 [Apostasia shenzhenica]	6.09e-12
+mikado.Super_Scaffold_502G535.2	26S proteasome non-ATPase regulatory subunit 2 homolog A-like isoform X2 [Phoenix dactylifera]	0
+mikado.Super_Scaffold_502G67.4	WAT1-related protein At4g19185-like isoform X1 [Phalaenopsis equestris]	0
+mikado.Super_Scaffold_502G67.5	WAT1-related protein At4g19185 isoform X3 [Ananas comosus]	1.46e-155
+mikado.Super_Scaffold_64580G108.1	lactoylglutathione lyase [Ananas comosus]	1.82e-128
+mikado.Super_Scaffold_64580G108.4	lactoylglutathione lyase [Ananas comosus]	4.38e-114
+mikado.Super_Scaffold_64580G185.2	uncharacterized protein LOC103718563 isoform X1 [Phoenix dactylifera]	3.33e-27
+mikado.Super_Scaffold_64580G350.1	mitochondrial outer membrane protein porin 6 isoform X1 [Elaeis guineensis]	0
+mikado.Super_Scaffold_64580G467.1	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	1.09e-30
+mikado.Super_Scaffold_64580G467.3	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	6e-56
+mikado.Super_Scaffold_64580G467.4	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	1.09e-30
+mikado.Super_Scaffold_64580G467.6	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	6e-56
+mikado.Super_Scaffold_64580G467.7	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	6e-56
+mikado.Super_Scaffold_64580G475.1	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	2.14e-31
+mikado.Super_Scaffold_64580G475.2	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	1.21e-56
+mikado.Super_Scaffold_64580G475.3	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	3.79e-29
+mikado.Super_Scaffold_64580G475.4	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	3.79e-29
+mikado.Super_Scaffold_64580G475.5	molybdopterin synthase sulfur carrier subunit [Elaeis guineensis]	1.21e-56
+mikado.Super_Scaffold_64580G709.2	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase MurE homolog, chloroplastic-like [Elaeis guineensis]	0
+mikado.Super_Scaffold_64580G830.1	beta-amylase 2, chloroplastic isoform X1 [Phoenix dactylifera]	0
+mikado.Super_Scaffold_64580G830.4	beta-amylase 2, chloroplastic isoform X1 [Phoenix dactylifera]	0
+mikado.Super_Scaffold_64580G886.1	uncharacterized protein LOC103722845 [Phoenix dactylifera]	1.27e-132
+mikado.Super_Scaffold_64580G886.3	uncharacterized protein LOC103722845 [Phoenix dactylifera]	5.02e-71
+mikado.Super_Scaffold_64580G886.4	uncharacterized protein LOC103722845 [Phoenix dactylifera]	6.35e-71
+mikado.Super_Scaffold_64580G886.5	uncharacterized protein LOC103722845 [Phoenix dactylifera]	2.16e-106
+mikado.Super_Scaffold_64580G886.6	uncharacterized protein LOC103722845 [Phoenix dactylifera]	6.35e-71
+mikado.Super_Scaffold_73734G1022.1	hypothetical protein MA16_Dca020008 [Dendrobium catenatum]	1.07e-22
+mikado.Super_Scaffold_73734G1267.5	chaperonin CPN60-2, mitochondrial [Phoenix dactylifera]	0
+mikado.Super_Scaffold_73734G1392.2	WD repeat-containing protein 70 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G1401.1	late embryogenesis abundant protein D-7 [Elaeis guineensis]	1.12e-51
+mikado.Super_Scaffold_73734G1798.1	protein DMR6-LIKE OXYGENASE 1 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G1869.4	endoribonuclease Dicer homolog 1 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G1889.1	protein DMR6-LIKE OXYGENASE 1 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G1889.2	protein DMR6-LIKE OXYGENASE 1 [Elaeis guineensis]	3.95e-168
+mikado.Super_Scaffold_73734G1907.7	uncharacterized protein LOC105054238 [Elaeis guineensis]	3.25e-101
+mikado.Super_Scaffold_73734G2030.1	hypothetical protein B296_00017018 [Ensete ventricosum]	5.32e-26
+mikado.Super_Scaffold_73734G2064.1	uncharacterized protein LOC105054202 isoform X3 [Elaeis guineensis]	6.03e-69
+mikado.Super_Scaffold_73734G2064.3	uncharacterized protein LOC105054202 isoform X3 [Elaeis guineensis]	1.28e-46
+mikado.Super_Scaffold_73734G2080.8	C-terminal binding protein AN [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G2159.5	uncharacterized protein LOC105054180 isoform X3 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G2279.1	ubiquitin-related modifier 1 homolog 2 isoform X2 [Elaeis guineensis]	5.67e-64
+mikado.Super_Scaffold_73734G2279.2	ubiquitin-related modifier 1 homolog 2 isoform X3 [Elaeis guineensis]	3.29e-62
+mikado.Super_Scaffold_73734G2433.1	lysophospholipid acyltransferase 1-like [Phoenix dactylifera]	0
+mikado.Super_Scaffold_73734G2448.1	hypothetical protein C4D60_Mb05t14580 [Musa balbisiana]	4.58e-13
+mikado.Super_Scaffold_73734G2657.4	26S proteasome regulatory subunit RPN13-like isoform X1 [Phoenix dactylifera]	0
+mikado.Super_Scaffold_73734G2692.8	cytochrome b5 [Elaeis guineensis]	5.61e-67
+mikado.Super_Scaffold_73734G2716.1	uncharacterized protein LOC105032047 [Elaeis guineensis]	5.53e-46
+mikado.Super_Scaffold_73734G2730.1	hypothetical protein BHM03_00047376 [Ensete ventricosum]	9.67e-07
+mikado.Super_Scaffold_73734G2774.5	tetratricopeptide repeat protein 27 homolog [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G2833.10	transmembrane and coiled-coil domain-containing protein 4 isoform X2 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G2985.1	probable WRKY transcription factor 11 [Ananas comosus]	3.02e-104
+mikado.Super_Scaffold_73734G3025.1	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial [Elaeis guineensis]	6.12e-33
+mikado.Super_Scaffold_73734G3582.1	60S ribosomal protein L37a [Phoenix dactylifera]	5.76e-61
+mikado.Super_Scaffold_73734G3582.2	hypothetical protein C4D60_Mb03t16950 [Musa balbisiana]	2.26e-41
+mikado.Super_Scaffold_73734G3582.3	60S ribosomal protein L37a [Phoenix dactylifera]	4.85e-45
+mikado.Super_Scaffold_73734G3601.2	mitochondrial pyruvate carrier 4-like [Phoenix dactylifera]	8.04e-64
+mikado.Super_Scaffold_73734G3601.3	mitochondrial pyruvate carrier 4-like [Phoenix dactylifera]	3.46e-38
+mikado.Super_Scaffold_73734G3601.4	mitochondrial pyruvate carrier 4-like [Asparagus officinalis]	6.74e-45
+mikado.Super_Scaffold_73734G3685.1	eukaryotic translation initiation factor 3 subunit B-like [Phoenix dactylifera]	0
+mikado.Super_Scaffold_73734G3685.2	eukaryotic translation initiation factor 3 subunit B-like [Phoenix dactylifera]	0
+mikado.Super_Scaffold_73734G3690.7	DNA replication ATP-dependent helicase/nuclease DNA2 isoform X5 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G3696.4	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3 isoform X2 [Elaeis guineensis]	1.54e-63
+mikado.Super_Scaffold_73734G3703.6	pyruvate kinase isozyme G, chloroplastic [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G3709.2	uncharacterized protein LOC105053879 isoform X3 [Elaeis guineensis]	8.45e-62
+mikado.Super_Scaffold_73734G3819.1	29 kDa ribonucleoprotein A, chloroplastic [Phoenix dactylifera]	1.19e-171
+mikado.Super_Scaffold_73734G3819.3	29 kDa ribonucleoprotein A, chloroplastic [Phoenix dactylifera]	1.19e-171
+mikado.Super_Scaffold_73734G3819.4	29 kDa ribonucleoprotein A, chloroplastic [Phoenix dactylifera]	1.19e-171
+mikado.Super_Scaffold_73734G3990.1	oligopeptide transporter 4-like [Phoenix dactylifera]	0
+mikado.Super_Scaffold_73734G4083.4	plastidal glycolate/glycerate translocator 1, chloroplastic isoform X2 [Phoenix dactylifera]	1.75e-159
+mikado.Super_Scaffold_73734G4166.2	uncharacterized protein LOC103698880 [Phoenix dactylifera]	1.82e-45
+mikado.Super_Scaffold_73734G4166.3	uncharacterized protein LOC103698880 [Phoenix dactylifera]	1.82e-45
+mikado.Super_Scaffold_73734G4166.4	uncharacterized protein LOC103698880 [Phoenix dactylifera]	1.82e-45
+mikado.Super_Scaffold_73734G4166.5	uncharacterized protein LOC103698880 [Phoenix dactylifera]	1.82e-45
+mikado.Super_Scaffold_73734G4166.6	uncharacterized protein LOC103698880 [Phoenix dactylifera]	1.82e-45
+mikado.Super_Scaffold_73734G4172.6	dolichol-phosphate mannose synthase subunit 3 [Phoenix dactylifera]	1.2e-53
+mikado.Super_Scaffold_73734G4196.1	PREDICTED: GDSL esterase/lipase At1g20120-like [Musa acuminata subsp. malaccensis]	0
+mikado.Super_Scaffold_73734G4228.3	E3 ubiquitin-protein ligase UPL3 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G4305.4	hypothetical protein DAI22_03g107000 [Oryza sativa Japonica Group]	5.11e-57
+mikado.Super_Scaffold_73734G4375.1	hypothetical protein EE612_022333, partial [Oryza sativa]	2.13e-49
+mikado.Super_Scaffold_73734G4375.3	hypothetical protein EE612_022333, partial [Oryza sativa]	3.4e-49
+mikado.Super_Scaffold_73734G4449.1	hypothetical protein B296_00056536 [Ensete ventricosum]	3e-31
+mikado.Super_Scaffold_73734G4510.2	peptidyl-prolyl cis-trans isomerase Pin1 isoform X1 [Elaeis guineensis]	1.77e-50
+mikado.Super_Scaffold_73734G452.8	uncharacterized protein LOC105053583 isoform X5 [Elaeis guineensis]	2.68e-56
+mikado.Super_Scaffold_73734G4597.8	pre-mRNA-processing factor 39 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G4643.6	peroxisome biogenesis protein 12 isoform X1 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G4643.7	peroxisome biogenesis protein 12 isoform X1 [Elaeis guineensis]	8.24e-174
+mikado.Super_Scaffold_73734G4694.2	uncharacterized protein LOC105044201 isoform X2 [Elaeis guineensis]	1.77e-33
+mikado.Super_Scaffold_73734G4694.3	uncharacterized protein LOC105044201 isoform X2 [Elaeis guineensis]	1.77e-33
+mikado.Super_Scaffold_73734G4694.4	uncharacterized protein LOC105044201 isoform X2 [Elaeis guineensis]	1.77e-33
+mikado.Super_Scaffold_73734G4696.1	cyanate hydratase isoform X2 [Phoenix dactylifera]	1.95e-105
+mikado.Super_Scaffold_73734G4696.6	cyanate hydratase isoform X2 [Elaeis guineensis]	7.07e-98
+mikado.Super_Scaffold_73734G4763.3	serine/threonine-protein kinase tricorner-like isoform X1 [Phoenix dactylifera]	0
+mikado.Super_Scaffold_73734G4820.2	H/ACA ribonucleoprotein complex subunit 3-like protein [Phoenix dactylifera]	5.45e-38
+mikado.Super_Scaffold_73734G4820.3	H/ACA ribonucleoprotein complex subunit 3-like protein [Phoenix dactylifera]	1.98e-40
+mikado.Super_Scaffold_73734G4882.1	auxin-responsive protein SAUR50-like [Aegilops tauschii subsp. tauschii]	3.36e-16
+mikado.Super_Scaffold_73734G4919.2	mitochondrial import inner membrane translocase subunit PAM16 like 2 [Elaeis guineensis]	5.97e-31
+mikado.Super_Scaffold_73734G4936.3	homeobox-leucine zipper protein HOX9 [Elaeis guineensis]	0
+mikado.Super_Scaffold_73734G4971.1	predicted protein, partial [Hordeum vulgare subsp. vulgare]	5.21e-30
+mikado.Super_Scaffold_73734G4971.3	predicted protein, partial [Hordeum vulgare subsp. vulgare]	2.5e-27
+mikado.Super_Scaffold_73734G670.5	Cyclin-dependent kinases regulatory subunit 2, partial [Ananas comosus]	2.21e-56
+mikado.Super_Scaffold_73734G678.7	dehydrodolichyl diphosphate synthase 6 [Elaeis guineensis]	0
