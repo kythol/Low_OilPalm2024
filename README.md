@@ -1,6 +1,6 @@
 # Low_OilPalm2024 (G3)
 
-This repository contains supplementary materials (script) used for model classification in _Low et al 2024 (G3) Chromosome-scale Elaeis guineensis and E. oleifera assemblies: Comparative genomics of oil palm and other Arecaceae_
+This repository contains supplementary materials (script) used for model classification in _Low et al 2024 (G3) Chromosome-scale _Elaeis guineensis_ and _E. oleifera_ assemblies: Comparative genomics of oil palm and other Arecaceae_
 
 Usage:
 Rscript to_publish_P11_overall_models_script.r input/testset_seqping.gff3 \ # MAKER predictions
