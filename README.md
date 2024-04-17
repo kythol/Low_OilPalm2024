@@ -1,4 +1,4 @@
-# Low_OilPalm2024 (G3)
+# Low_OilPalm2024
 
 This repository contains supplementary materials (script) used for model classification in __Low et al (2024)__.
 
